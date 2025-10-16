@@ -13,7 +13,7 @@ http.createServer(function(req, res) {
         } 
         
         // 3. Set the Content-Type header to text/html
-        res.writeHead(200, { 'Content-Type': 'Web/html' }); 
+        res.writeHead(200, { 'Content-Type': 'text/html' }); 
         
         // 4. Send the file content (data) as the response body
         res.write(data); 
