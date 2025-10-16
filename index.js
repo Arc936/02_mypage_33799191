@@ -8,10 +8,10 @@ const htmlContent = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Re’s Page</title>
+    <title>Welcome to Reyes' Page</title>
 </head>
 <body>
-    <h1>Hello, I’m Reyes!</h1>
+    <h1>Hello,I am Reyes!</h1>
     <h2>A Computer Science Student</h2>
     <p>I’m currently in my third year studying computer science.I’m excited to explore projects that solve problems.</p>
 </body>
