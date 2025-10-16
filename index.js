@@ -13,7 +13,7 @@ const htmlContent = `
 <body>
     <h1>Hello,I am Reyes!</h1>
     <h2>A Computer Science Student</h2>
-    <p>I’m currently in my third year studying computer science.I’m excited to explore projects that solve problems.</p>
+    <p>I am currently in my third year studying computer science.I am excited to explore projects that solve problems.</p>
 </body>
 </html>
 `;
