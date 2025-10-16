@@ -8,12 +8,12 @@ const htmlContent = `
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to Alamagan’s Page</title>
+    <title>Welcome to Re’s Page</title>
 </head>
 <body>
-    <h1>Hello, I’m Alamagan!</h1>
-    <h2>A Computer Science Student and Aspiring Data Engineer</h2>
-    <p>I’m currently in my third year studying computer science. I enjoy learning about data systems and coding in Python, and I’m excited to explore projects that solve real-world problems.</p>
+    <h1>Hello, I’m Reyes!</h1>
+    <h2>A Computer Science Student</h2>
+    <p>I’m currently in my third year studying computer science.I’m excited to explore projects that solve problems.</p>
 </body>
 </html>
 `;
